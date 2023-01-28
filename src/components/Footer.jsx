@@ -17,7 +17,7 @@ function Footer() {
       </div>
 
       <p className="font-poppins font-normal text-[14px] leading-[27px] text-white text-center mt-8 mr-4">
-        © USC KBSO 2022
+        © USC KBSO 2023
       </p>
     </div>
   )

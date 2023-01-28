@@ -99,6 +99,6 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: send,
-    link: "malito:kbso@usc.edu",
+    link: "mailto:kbso@usc.edu",
   },  
 ];
