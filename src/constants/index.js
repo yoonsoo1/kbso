@@ -1,4 +1,4 @@
-import { send, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, lead, community, professional  } from "../assets";
+import { send, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, lead, community, professional, jinro, aldi  } from "../assets";
 import { cj, deloitte, ey, gt, gw, jhu, kpmg, parsons, posco, purdue, ucla, uiuc, usg } from "../images"
 import {luy, jamie, erin} from "../images"
 
@@ -48,28 +48,20 @@ export const Initiatives = [
 export const partners = [
   {
     id: "partners-1",
-    logo: cj
+    logo: jinro
   },
   {
     id: "partners-2",
-    logo: deloitte
-  },
-  {
-    id: "partners-3",
-    logo: ey
-  },
-  {
-    id: "partners-4",
-    logo: gt,
+    logo: aldi
   },
 ];
 
 export const Teams = [
   {
     id: "team-1",
-    name: "Luy Kim",
+    name: "Erin Kim",
     role: "President",
-    image: luy,
+    image: erin,
   },
   {
     id: "team-2",
@@ -79,9 +71,9 @@ export const Teams = [
   },
   {
     id: "team-3",
-    name: "Erin Kim",
+    name: "Luy Kim",
     role: "VP",
-    image: erin,
+    image: luy,
   },
 ];
 

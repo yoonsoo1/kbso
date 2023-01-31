@@ -24,6 +24,8 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import professional from "./professional.svg";
+import jinro from "./jinro.png";
+import aldi from "./aldi.png";
 import send from "./Send.svg";
 
 export {
@@ -53,5 +55,7 @@ export {
   people02,
   people03,
   professional,
-  send
+  send,
+  jinro,
+  aldi
 };
