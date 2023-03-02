@@ -10,10 +10,10 @@ function Team() {
               The Board
           </h2>
       </div>  
-      <div className={`${styles.flexCenter} flex-wrap w-full`}>
+      <div className={`${styles.flexCenter} flex-wrap w-full gap-y-10 gap-x-10`}>
         {Teams.map((member) => (
           <div key={member.id} className={`flex-1 ${styles.flexCenter} sm:min-w-[192px] min-w-[120px] team-photo`}>
-            <img src={member.image} alt="team" className='sm:w-[102px] w-[100px] object-contain'/>
+            <img src={member.image} alt="team" className='sm:w-[180px] w-[150px] object-contain sm:max-h-[180px] max-h-[150px]'/>
             <div className='absolute text-center team-position'>
               <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23px] mb-1">
                 {member.name}

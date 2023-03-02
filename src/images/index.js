@@ -11,9 +11,10 @@ import purdue from './logos/purdue.jpg';
 import ucla from './logos/ucla.jpg';
 import uiuc from './logos/uiuc.jpg';
 import usg from './logos/usg.jpg';
-import luy from './headshots/sp20_luy-min-min-min.jpg';
-import jamie from './headshots/sp20_jamie-min-min-min.jpg';
-import erin from './headshots/sp20_erin-min-min-min.jpg';
+import SK from './headshots/SK.JPG';
+import BC from './headshots/BC.JPG';
+import HH from './headshots/HH.JPG';
+import EK from './headshots/EK.JPG';
 
 export {
     cj, 
@@ -29,7 +30,8 @@ export {
     ucla, 
     uiuc, 
     usg,
-    luy,
-    jamie,
-    erin,
+    SK,
+    BC,
+    HH,
+    EK
 };

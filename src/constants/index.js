@@ -1,6 +1,6 @@
 import { send, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, lead, community, professional, jinro, aldi  } from "../assets";
 import { cj, deloitte, ey, gt, gw, jhu, kpmg, parsons, posco, purdue, ucla, uiuc, usg } from "../images"
-import {luy, jamie, erin} from "../images"
+import {SK, BC, HH, EK} from "../images"
 
 export const navLinks = [
   {
@@ -59,22 +59,28 @@ export const partners = [
 export const Teams = [
   {
     id: "team-1",
-    name: "Erin Kim",
+    name: "Brandon Choi",
     role: "President",
-    image: erin,
+    image: BC,
   },
   {
     id: "team-2",
-    name: "Jamie Kim",
-    role: "VP",
-    image: jamie,
+    name: "Stephanie Kim",
+    role: "Co-President",
+    image: SK,
   },
   {
     id: "team-3",
-    name: "Luy Kim",
+    name: "Heather Hong",
     role: "VP",
-    image: luy,
+    image: HH,
   },
+  {
+    id: "team-4",
+    name: "Erin Kim",
+    role: "Secretary",
+    image: EK,
+  }
 ];
 
 export const socialMedia = [
