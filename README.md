@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
+# USC KBSO Website Code (https://www.usckbso.com/)
+This is the react code for the USC KBSO's website.\
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
